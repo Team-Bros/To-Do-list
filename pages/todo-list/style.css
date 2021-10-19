@@ -1,0 +1,34 @@
+/** To do list **/
+.todo-container {
+  width: 50%;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  margin-top: 50px;
+}
+
+.add-input-group {
+  border: 1px solid silver;
+  padding: 6px;
+  display: flex;
+}
+
+.add-input {
+  border: 0;
+  outline: 0;
+  width: 100%;
+}
+
+.plus {
+  margin-right: 8px;
+}
+
+.todo-item {
+  display: flex;
+  border: 1px solid silver;
+  padding: 6px;
+}
+
+.todo-text {
+  width: 100%;
+  padding: 0 10px;
+}
